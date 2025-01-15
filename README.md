@@ -1,4 +1,4 @@
-For row-major pattern : python l2_gemm_test.py --row_maj 
+For row-major pattern : '''python python l2_gemm_test.py --row_maj'''
 
 For column-major pattern : python l2_gemm_test.py --col_maj 
 
